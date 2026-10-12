@@ -1,5 +1,5 @@
 /**
- * Google AdSense Configuration for identityza
+ * Google AdSense Configuration for Mzansi Verify
  * -------------------------------------------
  * When your Google AdSense account is approved, update this file with your
  * publisher credentials and ad unit slot IDs.
